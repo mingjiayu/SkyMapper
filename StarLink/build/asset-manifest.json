@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ffb979d7.css",
+    "main.js": "/static/js/main.43e8cedd.js",
+    "static/js/787.1180ac43.chunk.js": "/static/js/787.1180ac43.chunk.js",
+    "static/media/satellite.svg": "/static/media/satellite.e57d2593e1023c177ce21d6ae65df0eb.svg",
+    "static/media/starlink_logo.svg": "/static/media/starlink_logo.54a493324f61654bf6d8b487c03493ef.svg",
+    "index.html": "/index.html",
+    "main.ffb979d7.css.map": "/static/css/main.ffb979d7.css.map",
+    "main.43e8cedd.js.map": "/static/js/main.43e8cedd.js.map",
+    "787.1180ac43.chunk.js.map": "/static/js/787.1180ac43.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ffb979d7.css",
+    "static/js/main.43e8cedd.js"
+  ]
+}
